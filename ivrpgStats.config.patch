@@ -1,0 +1,169 @@
+[
+[
+  {
+    "value": "Greatly Increases Shield Health.",
+    "path": "/strength/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Significantly Increases Two-Handed Melee Damage.",
+    "path": "/strength/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Slightly Increases One-Handed Melee Weapon Damage.^red; Doesn't stack with Dex.!^reset;",
+    "path": "/strength/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Minimally Increases Armor.",
+    "path": "/strength/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Starting From 20 Strength:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee Weapons.",
+    "path": "/strength/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Significantly Decreases Fall Damage.",
+    "path": "/agility/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Greatly Increases Swim Speed.",
+    "path": "/agility/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Increases Movement Speed.",
+    "path": "/agility/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Slightly Increases Jump Height.",
+    "path": "/agility/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Movement Speed and Jump Height halved.\nSpecialization penalty for Movement Speed and Jump Height halved.",
+    "path": "/agility/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Greatly Increases Max Health.",
+    "path": "/vitality/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Decreases Hunger Rate.",
+    "path": "/vitality/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "(GiC) Increases Bleed Resist.",
+    "path": "/vitality/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Starting From 20 Vitality:^reset;\nClassic Mode penalty for Max Health and Food Delta halved.\nSpecialization penalty for Max Health and Food Delta halved.",
+    "path": "/vitality/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Greatly Increases Max Energy.",
+    "path": "/vigor/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Increases Energy Recharge Rate.",
+    "path": "/vigor/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Decreases Energy Recharge Delay.",
+    "path": "/vigor/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalties for Energy halved.\nSpecialization penalties for Energy halved.",
+    "path": "/vigor/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Greatly Increases Staff Damage.",
+    "path": "/intelligence/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Minimally Increases Energy Recharge Rate.",
+    "path": "/intelligence/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Increases Experience Orb Gain (Cross Party).",
+    "path": "/intelligence/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Slightly Increases Wand Damage.",
+    "path": "/intelligence/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Starting From 20 Intelligence:^reset;\nClassic Mode penalty lowered to -50% for Staffs and Grimoires,\nand lowered to -25% for Mono-Wielded Wands and Magic Orbs.",
+    "path": "/intelligence/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Increases Ranged Weapon Damage, Bleed Chance and Bleed Length.",
+    "path": "/dexterity/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Slightly Increases One-Handed Weapon Damage.^red; Doesn't stack with Strength!^reset;",
+    "path": "/dexterity/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Slightly Decreases Fall Damage.",
+    "path": "/dexterity/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Starting From 20 Dexterity:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Ranged Weapons,\nlowered to -50% for Dual-Wielded Ranged and Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee and Ranged Weapons.",
+    "path": "/dexterity/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Click a stat's icon to see what occurs\nwhen that stat is raised.",
+    "path": "/default/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Significantly Increases Armor.",
+    "path": "/endurance/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Increases Knockback Resistance.",
+    "path": "/endurance/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Moderately Increases All Resistances.",
+    "path": "/endurance/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "(GiC) Increases melee and arms resistances.",
+    "path": "/endurance/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for Armor and all Resistances halved.\nSpecialization penalty for Armor and all Resistances halved.",
+    "path": "/endurance/4/text",
+    "op": "replace"
+  }
+]
+]

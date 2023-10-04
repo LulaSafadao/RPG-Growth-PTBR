@@ -1,0 +1,1342 @@
+[
+  {
+    "value": "Paladin",
+    "path": "/0/0/title",
+    "op": "replace"
+  },
+  {
+    "value": "Paladins are holy defenders who block attacks from every angle with a sturdy grip. Paladins are masters with shields, and have slight magical affinity, moreso than most other Knights.",
+    "path": "/0/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Perfect Shield enemy attacks multiple times. Perfect Shield the Heart of Ruin's tentacles to unlock instantly.",
+    "path": "/0/0/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to True Aegis, a Two-Handed Shield with Holy Powers. True Aegis can channel Holy Energy outwards, dealing constant damage and debuffing all enemies it hits.",
+    "path": "/0/0/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Immaculate Shield, a Tech that provides team support but requires a skillful defense.",
+    "path": "/0/0/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Juggernaut",
+    "path": "/0/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Juggernauts shrug off damage as they plow through enemies, wielding heavy weapons with ease. Their large frames make it hard for them to stop moving, but sometimes it doesn't really matter. With thunderous footsteps, they pound enemies down, flattening them with mighty hammers.",
+    "path": "/0/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use a Hammer to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "path": "/0/1/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Crushing Meteor, a Hammer that can crush even obsidian beneath its hefty weight.",
+    "path": "/0/1/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Limit Break, a Tech that makes you unstoppable for a short period.",
+    "path": "/0/1/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Samurai",
+    "path": "/0/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Following a strict code called bushido, Samurai are masters of quick, agile, yet honorable swordplay. Taking enemies straight on without playing dirty, they train hard to hone their movement and ability. While very proficient with many weapons, like Spears and Bows, the Samurai fight best with Katanas.",
+    "path": "/0/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Spears, Katanas, or Bows to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "path": "/0/2/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Samurai Heart, a Katana that can be used to deftly counter enemies.",
+    "path": "/0/2/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Iaijutsu, a Tech that allows you to use Energy to quickly slash forwards.",
+    "path": "/0/2/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Valkyrie",
+    "path": "/0/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "Valkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
+    "path": "/0/3/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Spears or Shortswords to defeat enemies. Unlocked faster by defeating higher tier enemies. Take damage from a 250-block high fall without dying to unlock immediately.",
+    "path": "/0/3/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Gungnir, a Spear that turns enemies into a healing ray of light.",
+    "path": "/0/3/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Einherjar, a Tech that allows you to grant invulnerability to a nearby ally.",
+    "path": "/0/3/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Crusader",
+    "path": "/0/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield other two-handed melee weapons.",
+    "path": "/0/4/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use a Broadsword to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards. Unlocked faster by defeating higher tier enemies.",
+    "path": "/0/4/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Oathkeeper, a Broadsword with a lengthy combo and the ability to fire Holy Energy.",
+    "path": "/0/4/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Resurgence, a Tech that modifies sprint and allows you to come back from certain death.",
+    "path": "/0/4/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Conquistador",
+    "path": "/0/5/title",
+    "op": "replace"
+  },
+  {
+    "value": "Conquistadors are both Explorers and Knights, traveling far and wide to conquer lands unknown with their combat prowess. Trained in both ranged and melee combat, Conquistadors can use bows, crossbows, spears, and many other weapons to take out enemies both near and far.",
+    "path": "/0/5/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use a Spear or Bow to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards. Unlocked faster by defeating higher tier enemies.",
+    "path": "/0/5/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Arquebus, a Crossbow that shoots exploding bolts.",
+    "path": "/0/5/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to The Cavalry's Here, a Tech that summons a horse you can ride.",
+    "path": "/0/5/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Berserker",
+    "path": "/0/6/title",
+    "op": "replace"
+  },
+  {
+    "value": "Berserkers have lost all reason, 'choosing' instead to rage and chop enemies into mincemeat. As long as the weapon they are using can shred through enemies, a Berserker will attempt to use it, no matter the cost.",
+    "path": "/0/6/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies with Shotguns or Hammers. Unlocked faster by defeating higher tier enemies.",
+    "path": "/0/6/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Murderstick, a 2-Handed Shotgun that can be used like a hammer.",
+    "path": "/0/6/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Berserk, a Tech that can be toggled to turn damage taken into bonus Power and Speed.",
+    "path": "/0/6/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Dragoon",
+    "path": "/0/7/title",
+    "op": "replace"
+  },
+  {
+    "value": "Dragoons wield lances and spears. Coupled with their light armor, they are a force meant to quickly and decisively pierce through all opposition - no matter how durable, or how high in the sky.",
+    "path": "/0/7/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use a Spear to defeat enemies. Unlocked faster by defeating higher tier enemies or the Bone Dragon. Taking Fall Damage grants progress as well.",
+    "path": "/0/7/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Dragon's Bane, a Two-handed Spear with excellent range and elemental capabilities.",
+    "path": "/0/7/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Dragon's Leap, a Tech that upgrades Knight's Slam with phenomenal Jump Height and a better Slam explosion.",
+    "path": "/0/7/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Dark Templar",
+    "path": "/0/8/title",
+    "op": "replace"
+  },
+  {
+    "value": "Dark Templars excel with various Melee Weapons, but prefer Halberds and Scythes. Able to dextrously wield large weapons, Dark Templars ruthlessly slaughter foes and revel in bloodshed, allowing the darkness within to overtake them, and corrupting everything and everyone they come in contact with.",
+    "path": "/0/8/description",
+    "op": "replace"
+  },
+  {
+    "value": "Slaughter enemies. Unlocked faster by defeating higher tier enemies, or by killing enemies via Bleed.",
+    "path": "/0/8/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Heartless, a Halberd with far-reaching swings that can cause massive explosions.",
+    "path": "/0/8/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Abounding Darkness, a Tech that drains Health but damages nearby enemies and drains their lifeforce.",
+    "path": "/0/8/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Necromancer",
+    "path": "/1/0/title",
+    "op": "replace"
+  },
+  {
+    "value": "Necromancers fight using demonic magic and can raise the dead, and handle close-range combat much better than most Wizards. Because of their close attunement to death, Necromancers can efficiently wield scythes and daggers, and are often able to drain life from enemies to heal allies.",
+    "path": "/1/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies while your current health is lower than 30% of your max health. Gain more progress the lower your Health. Unlocked faster by defeating higher tier enemies.",
+    "path": "/1/0/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to For Us All, a demonic Scythe that can unleash unstable Demonic Energy.",
+    "path": "/1/0/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Reap, a Tech that allows you to instantly kill low health enemies or spawn a friendly monster.",
+    "path": "/1/0/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Battle Mage",
+    "path": "/1/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Battle Mages give up on pure magic to focus on their physique, learning to fight proficiently with all kinds of melee weapons. However, even though they no longer really use magical wands or staffs, they still use rudimentary magic to strengthen their body and sharpen their mind.",
+    "path": "/1/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies with Two-Handed Melee Weapons while Strength, Vitality, and Intelligence are at least 20. Unlocked faster by defeating higher tier enemies.",
+    "path": "/1/1/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Solstice, a Melee Staff that can be empowered with Nova Energy.",
+    "path": "/1/1/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Battle Aura, a Tech that empowers you and nearby allies with various physical buffs.",
+    "path": "/1/1/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Warlock",
+    "path": "/1/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Highly intelligent Wizards who have mastered the art of manipulating Nova energy, Warlocks pride themselves on their massive storage of near limitless power. Able to change and shift the universe in subtle, and often not-so-subtle, ways, Warlocks truly have the universe in the palm of their hands. Almost.",
+    "path": "/1/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies while Intelligence is 50. Unlocked faster by defeating higher tier enemies.",
+    "path": "/1/2/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Orbital, a Staff that can summon and fire Primed Nova Crystals.",
+    "path": "/1/2/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Nova Step, a Tech that allows you to walk midir by creating platforms of Nova energy.",
+    "path": "/1/2/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Elementress",
+    "path": "/1/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "A sweet voice calls out to you, tempting you: will you break your physical form and become a concentrated vessel of pure elemental energy? If so, harness the raw power that only an Elementress can, and revel in your new ability to throw magic around.",
+    "path": "/1/3/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies with Nova, Fire, Ice, or Electric Damage. Unlocked faster by defeating higher tier enemies.",
+    "path": "/1/3/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Eclipse, a Wand that spawns seeking shards of Nova Energy.",
+    "path": "/1/3/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Attune, a Tech that provides an amplitude of elemental abilities.",
+    "path": "/1/3/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Crusader",
+    "path": "/1/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield other two-handed melee weapons.",
+    "path": "/1/4/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use a Broadsword to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards. Unlocked faster by defeating higher tier enemies.",
+    "path": "/1/4/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Oathkeeper, a Broadsword with a crazy combo and the ability to fire Holy Energy.",
+    "path": "/1/4/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Resurgence, a Tech that modifies sprint and allows you to come back from certain death.",
+    "path": "/1/4/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Wraith",
+    "path": "/1/5/title",
+    "op": "replace"
+  },
+  {
+    "value": "Wraiths are spirits, no longer corporeal. Because of this, Wraiths are barely affected by gravity and can phase through matter when threatened. Wraiths are unable to wield large weapons and can no longer use magic.",
+    "path": "/1/5/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat Gosmet, Skimbus, Spookit, Wisper, Squeem, or Tentacle Ghosts while Intelligence is at least 40. Unlocked faster by defeating higher tier enemies.",
+    "path": "/1/5/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Soulless Whisper, a cursed Claw whose combo finisher allows for travel in any direction.",
+    "path": "/1/5/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Dark Phase, a Tech that replaces jumping with the ability to hover through walls.",
+    "path": "/1/5/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Technomancer",
+    "path": "/1/6/title",
+    "op": "replace"
+  },
+  {
+    "value": "Combining Science with Magic, the Technomancer dons elemental armor and uses both Wands and Ranged Weapons to get the job done. Technomancers enhance mundane weaponry with magic energy to increase damage output, making even weaker guns hit like trucks.",
+    "path": "/1/6/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemied with Nova, Fire, Ice, Electric, or Poison Damage. Defeating enemies with the Flamethrower grants bonus progress. Unlocked faster by defeating higher tier enemies.",
+    "path": "/1/6/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Omnia-Thrower, a Flamethrower that can switch between Nova, Fire, Electric, Ice, and Poison Energy.",
+    "path": "/1/6/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Elemental Overcharge, a Tech that upgrades Magic Shield with improved Element Resistance and Increased Power.",
+    "path": "/1/6/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Changeling",
+    "path": "/1/7/title",
+    "op": "replace"
+  },
+  {
+    "value": "Changelings utilize a unique magic to shapeshift between various creatures that they have studied. Able to morph their bodies to an extreme, Changelings can shrink in size to become incredibly resilient, or feed on matter to grow larger, allowing them to get the upper hand in battles.",
+    "path": "/1/7/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies. Wisper, Poptop, and Orbide give more progress. Unlocked faster by defeating higher tier enemies.",
+    "path": "/1/7/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Shapeshift, a Head Tech that enables transformation between Poptop, Wisper, and Orbide, each with unique attacks, movement, and passive abilities.",
+    "path": "/1/7/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Sage",
+    "path": "/1/8/title",
+    "op": "replace"
+  },
+  {
+    "value": "Sages are enlightened monks that have traveled far and wide. Honing their bodies has given them slightly hightened combat potential, enabling them to wield certain melee weapons with grace and power.",
+    "path": "/1/8/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies with Nova, Fire, Electric, Ice, or Holy Damage while Vitality, Dexterity, and Intelligence are at least 20. Unlocked faster by defeating higher tier enemies.",
+    "path": "/1/8/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Rapture, a Two-Handed Glaive that can change element and summon beams of Holy light.",
+    "path": "/1/8/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Chrysalis, a Tech that lets you buff teammates and increase element resistance.",
+    "path": "/1/8/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Assassin",
+    "path": "/2/0/title",
+    "op": "replace"
+  },
+  {
+    "value": "The Assassin can always find the perfect place and moment to strike, using their dexterity to hit vital points with every stab. Due to their conenction to the black market, and tendency to work for the highest bidder, Assassin's have quite a bad reputation, but that doesn't stop them from completing each job with finesse.",
+    "path": "/2/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Daggers to defeat enemies. Unlocked faster by defeating higher tier enemies, or by killing enemies via Bleed.",
+    "path": "/2/0/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Heartstring, a Dagger that deals fatal damage when certain conditions are met.",
+    "path": "/2/0/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Assassinate, a Tech that enables quick movement to attack enemy weak points.",
+    "path": "/2/0/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Shade",
+    "path": "/2/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Silent killers, Shades viciously dismantle enemies in a shroud of darkness. Utilizing Demonic energy, Shades can warp reality around them, causing them to vanish without a trace, even becoming immune to the most deadly of elements. Using Snipers, Bows, and Fist Weapons with great skill, if you've managed to spot one, it's still already too late.",
+    "path": "/2/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Bows or Fist Weapons to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "path": "/2/1/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Fear, a Bow that can warp light in order to hide from enemies.",
+    "path": "/2/1/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Quasar, a Tech that utilizes Demonic Energy for camouflage.",
+    "path": "/2/1/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Kunoichi",
+    "path": "/2/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Despite having slightly lower Health\nand dealing a bit less Damage\n^#ffaafa;The Kunoichi\nGracfully Dances Among\nSnaps Of Her War-Fan\n^white;silencing whomever she pleases.",
+    "path": "/2/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Using a Dagger, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is at least 30. Unlocked faster by defeating higher tier enemies.",
+    "path": "/2/2/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Luxuria, a One-handed War Fan with phenomenal speed and graceful combos.",
+    "path": "/2/2/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Swirling Petal, a Tech that allows for quick backwards movement and provides great crowd control via dazing gas.",
+    "path": "/2/2/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Adept",
+    "path": "/2/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "Adepts are Ninjas who have harnessed chaotic energy, so much so that they have become unstable. Because of this, Adepts can utilize wands and can lighten themselves and nearby matter. However, the price for such power is costly...",
+    "path": "/2/3/description",
+    "op": "replace"
+  },
+  {
+    "value": "Survive for 30 seconds right underneath the Heart of Ruin while both Intelligence and Agility are at least 40.",
+    "path": "/2/3/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Phase Shift, a One-Handed Wand with phenomenal AoE damage against enemies and fantastic AoE ally support.",
+    "path": "/2/3/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Flash Step, a Tech that replaces jumping with unstable, directional teleportation.",
+    "path": "/2/3/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Thief",
+    "path": "/2/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "Thieves are cunning and agile, choosing to steal from unsuspecting foes rather than directly confronting them. Knowing that altercations are inevitable, however, Thieves ensure they can use both silent close-range weapons, and pistols, which they pull out when necessary.",
+    "path": "/2/4/description",
+    "op": "replace"
+  },
+  {
+    "value": "Collect 25000 Pixels.",
+    "path": "/2/4/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Siphon Purge, a Claw Weapon that steals Health, Energy, and Food with every strike.",
+    "path": "/2/4/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Steal, a Tech that takes Armor and Power away from enemies to supplement your own Armor and Power.",
+    "path": "/2/4/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Operative",
+    "path": "/2/5/title",
+    "op": "replace"
+  },
+  {
+    "value": "Operatives use technology to dismantle enemies and buff themselves and their allies. Masters with a Sniper Rifle, Operatives prefer to attack from afar where safety is guaranteed, but when in a bind, they have many other tricks up their sleeves.",
+    "path": "/2/5/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies while a Sniper Rifle is equipped. Unlocked faster by defeating higher tier enemies.",
+    "path": "/2/5/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Breathless, a Two-Handed Sniper Rifle that fires bolts of plasma.",
+    "path": "/2/5/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to EMP Sphere, a Tech that upgrades Spike Sphere with various functions.",
+    "path": "/2/5/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Wanderer",
+    "path": "/2/6/title",
+    "op": "replace"
+  },
+  {
+    "value": "Wanderers go where the wind takes them, preferring to do it alone. Masters with the Katana, a Wanderer will never stay in the same place for long.",
+    "path": "/2/6/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies while Dexterity is at least 30. Unlocked faster by using a Katana or defeating higher tier enemies.",
+    "path": "/2/6/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Nomadic Soul, a Two-Handed Katana that can be drawn quickly for increased Power.",
+    "path": "/2/6/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Soliloquy, a Tech that trades Resistance for Power after every successive kill.",
+    "path": "/2/6/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Changeling",
+    "path": "/2/7/title",
+    "op": "replace"
+  },
+  {
+    "value": "Changelings utilize a unique magic to shapeshift between various creatures that they have studied. Able to morph their bodies to an extreme, Changelings can shrink in size to become incredibly resilient, or feed on matter to grow larger, allowing them to get the upper hand in battles.",
+    "path": "/2/7/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies. Wisper, Poptop, and Orbide give more progress. Unlocked faster by defeating higher tier enemies.",
+    "path": "/2/7/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Shapeshift, a Head Tech that enables transformation between Poptop, Wisper, and Orbide, each with unique attacks, movement, and passive abilities.",
+    "path": "/2/7/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Dark Templar",
+    "path": "/2/8/title",
+    "op": "replace"
+  },
+  {
+    "value": "Dark Templars excel with various Melee Weapons, but prefer Halberds and Scythes. Able to dextrously wield large weapons, Dark Templars ruthlessly slaughter foes and revel in bloodshed, allowing the darkness within to overtake them, and corrupting everything and everyone they come in contact with.",
+    "path": "/2/8/description",
+    "op": "replace"
+  },
+  {
+    "value": "Slaughter enemies. Unlocked faster by defeating higher tier enemies, or by killing enemies via Bleed.",
+    "path": "/2/8/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Heartless, a Halberd with far-reaching swings that can cause massive explosions.",
+    "path": "/2/8/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Abounding Darkness, a Tech that drains Health but damages nearby enemies and drains their lifeforce.",
+    "path": "/2/8/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Mechanist",
+    "path": "/3/0/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mechanists are pros with everything mechanical, capable of repairing and upgrading all kinds of machinery in order to do their bidding. With turrets and drones by their sides, Technicians are like a one-man army.",
+    "path": "/3/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies with Electric Damage. Unlocked faster by defeating higher tier enemies, or by defeating robotic enemies.",
+    "path": "/3/0/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Ex-Mechina, a One-Handed Rocket Launcher that leaves behind arc energy pulses.",
+    "path": "/3/0/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Skynet, a Tech that can spawn multiple friendly drones, or a heavy, automatic turret.",
+    "path": "/3/0/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Deadshot",
+    "path": "/3/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Masters with Sniper Rifles, Deadshots can shoot targets from unfathomable distances, before their enemies even have a chance to see them. Their patience allows them to sit still for hours, adjusting their scope and breathing quietly.",
+    "path": "/3/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Non-Explosive Ranged-Weapon Primary Fire to defeat enemies from a distance. Unlocked faster by defeating higher tier enemies, or by killing enemies via Bleed.",
+    "path": "/3/1/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Lotus, a Sniper Rifle that can create clouds of deadly gas upon defeating enemies.",
+    "path": "/3/1/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Ideal Shot, a Tech that upgrades Marksman to greatly increase Power.",
+    "path": "/3/1/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Vigilante",
+    "path": "/3/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Vigilantes use their own moral system to enact justice as they see fit. Due to their love of pistols, they can easily dual-wield ranged weapons. When fighting villains, Vigilantes get a rush of power and energy to take matters into their own hands.",
+    "path": "/3/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Non-Explosive Ranged-Weapon Primary Fire to defeat bandits, outlaws, cultists, and prisoners. Unlocked faster by defeating higher tier enemies.",
+    "path": "/3/2/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Anne and Marie, a pair of unique and powerful pistols that syngerize well together.",
+    "path": "/3/2/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Desperado, a Tech that grants infinite Energy and ramps up power when used.",
+    "path": "/3/2/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Titan",
+    "path": "/3/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura.",
+    "path": "/3/3/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Non-Explosive Ranged-Weapon Primary Fire to deal damage quickly after Perfect Shielding. Damage that deals a final blow is tripled.",
+    "path": "/3/3/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Epimetheus, a one-handed Submachine Gun with average stats that provides defensive bonuses upon killing enemies.",
+    "path": "/3/3/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Atlas' Burden, a Tech that increases the offensive and defensive capabilities of you and nearby allies.",
+    "path": "/3/3/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Vanguard",
+    "path": "/3/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
+    "path": "/3/4/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Non-Explosive, Ranged-Weapon Primary Fire to defeat enemies within 12 blocks. Unlocked faster by defeating higher tier enemies.",
+    "path": "/3/4/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Danger Close, a One-Handed Submachine Gun that has terrible accuracy but shreds while near enemies.",
+    "path": "/3/4/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Rush, a Tech that lets you travel towards and attack enemies near instantly.",
+    "path": "/3/4/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Operative",
+    "path": "/3/5/title",
+    "op": "replace"
+  },
+  {
+    "value": "Operatives use technology to dismantle enemies and buff themselves and their allies. Masters with a Sniper Rifle, Operatives prefer to attack from afar where safety is guaranteed, but when in a bind, they have many other tricks up their sleeves.",
+    "path": "/3/5/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies while a Sniper Rifle is equipped. Unlocked faster by defeating higher tier enemies.",
+    "path": "/3/5/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Breathless, a Two-Handed Sniper Rifle that fires bolts of plasma.",
+    "path": "/3/5/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to EMP Sphere, a Tech that upgrades Spike Sphere with various functions.",
+    "path": "/3/5/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Technomancer",
+    "path": "/3/6/title",
+    "op": "replace"
+  },
+  {
+    "value": "Combining Science with Magic, the Technomancer dons elemental armor and uses both Wands and Ranged Weapons to get the job done. Technomancers enhance mundane weaponry with magic energy to increase damage output, making even weaker guns hit like trucks.",
+    "path": "/3/6/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemied with Nova, Fire, Ice, Electric, or Poison Damage. Defeating enemies with the Flamethrower grants bonus progress. Unlocked faster by defeating higher tier enemies.",
+    "path": "/3/6/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Omnia-Thrower, a Flamethrower that can switch between Nova, Fire, Electric, Ice, and Poison Energy.",
+    "path": "/3/6/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Elemental Overcharge, a Tech that upgrades Magic Shield with improved Element Resistance and Increased Power.",
+    "path": "/3/6/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Dragoon",
+    "path": "/3/7/title",
+    "op": "replace"
+  },
+  {
+    "value": "Dragoons wield lances and spears. Coupled with their light armor, they are a force meant to quickly and decisively pierce through all opposition - no matter how durable, or how high in the sky.",
+    "path": "/3/7/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use a Spear to defeat enemies. Unlocked faster by defeating higher tier enemies or the Bone Dragon. Taking Fall Damage grants progress as well.",
+    "path": "/3/7/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Dragon's Bane, a Two-handed Spear with excellent range and elemental capabilities.",
+    "path": "/3/7/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Dragon's Leap, a Tech that upgrades Knight's Slam with phenomenal Jump Height and a better Slam explosion.",
+    "path": "/3/7/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Mercenary",
+    "path": "/3/8/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mercenaries are hired guns that aren't particularly honorable as long as they can secure their kills. Preferring light, one-handed ranged weapons for quick access and ease-of-use, a Mercenary also dabbles with grenades: after all, explosives get the job done twice as fast.",
+    "path": "/3/8/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies while wielding a Pistol in one hand and a Machine Pistol in the other. Unlocked faster by defeating higher tier enemies.",
+    "path": "/3/8/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Shredder, an SMG-Pistol hybrid with high accuracy, high damage, but low firerate.",
+    "path": "/3/8/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Make it Rain, a Tech that causes grenades to rain down on enemies with every dash.",
+    "path": "/3/8/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Cannoneer",
+    "path": "/4/0/title",
+    "op": "replace"
+  },
+  {
+    "value": "Blow'em away! Cannoneers are rogues that specialize in explosive weaponry. Normally utilizing Shortswords and Grenade Launchers, Cannoneers can get up close and personal to slice up enemies or stay back and blow them all to bits.",
+    "path": "/4/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies while wielding a Shortsword in one hand and a Grenade Launcher in the other. Unlocked faster by defeating higher tier enemies.",
+    "path": "/4/0/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Outburst and Stormhowl, a Grenade Launcher and Shortsword pair that devastates enemies up close.",
+    "path": "/4/0/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Bombs Away, a Tech that provides the ability to shoot cannonballs in multiple directions.",
+    "path": "/4/0/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Saboteur",
+    "path": "/4/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Sabotaging whatever they can find is in their nature. Saboteurs look for vulnerabilities in any system and summarily exploit them. Great with a variety of weapons, like Daggers, Pistols, Whips, and Fists/Claws, Saboteurs are prepared for any encounter.",
+    "path": "/4/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Daggers, Fists/Claws, Whips, or Non-Explosive Ranged-Weapon Primary Fire to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "path": "/4/1/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Sarin, a Dagger that releases a special chemical substance that can cause poisonous explosions.",
+    "path": "/4/1/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Shrapnel Mine, a tech that places mines that can vary in effect depending on weapon loadout.",
+    "path": "/4/1/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Fae",
+    "path": "/4/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Fae can slightly alter the chemical components in plants and use a special magic to move nitrogen around at will. Using Plant-Based Weapons enables them to deal the most damage, but they are also proficient with Whips and Bows as well.",
+    "path": "/4/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use the Vine Whip to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "path": "/4/2/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Chrysantha, a Vine Whip that can root enemies in place.",
+    "path": "/4/2/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Nymph's Blessing, a Tech that grants improved aerial mobility and pacifies nearby weakened monsters.",
+    "path": "/4/2/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Hunter",
+    "path": "/4/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "The Hunter is stealthy and cunning, using cloaking technology to surprise enemies. With deadly precision, the Hunter can accurately fire a variety of long-range weapons and deftly handle daggers at close ranges.",
+    "path": "/4/3/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies from behind. Doing so with Bows, Daggers, or Non-Explosive Ranged-Weapon Primary Fire grants bonus progress.",
+    "path": "/4/3/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Mida, a Bow that can be cloaked in various elements using Multitool.",
+    "path": "/4/3/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Multitool, a Tech that enables a variety of functions, such as dodging, throwing elemental grenades, and enhancing Mida.",
+    "path": "/4/3/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Thief",
+    "path": "/4/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "Thieves are cunning and agile, choosing to steal from unsuspecting foes rather than directly confronting them. Knowing that altercations are inevitable, however, Thieves ensure they can use both silent close-range weapons, and pistols, which they pull out when necessary.",
+    "path": "/4/4/description",
+    "op": "replace"
+  },
+  {
+    "value": "Collect 25000 Pixels.",
+    "path": "/4/4/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Siphon Purge, a Claw Weapon that steals Health, Energy, and Food with every strike.",
+    "path": "/4/4/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Steal, a Tech that takes Armor and Power away from enemies to supplement your own Armor and Power.",
+    "path": "/4/4/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Wraith",
+    "path": "/4/5/title",
+    "op": "replace"
+  },
+  {
+    "value": "Wraiths are spirits, no longer corporeal. Because of this, Wraiths are barely affected by gravity and can phase through matter when threatened. Wraiths are unable to wield large weapons and can no longer use magic.",
+    "path": "/4/5/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat Gosmet, Skimbus, Spookit, Wisper, Squeem, or Tentacle Ghosts while Intelligence is at least 40. Unlocked faster by defeating higher tier enemies.",
+    "path": "/4/5/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Soulless Whisper, a cursed Claw whose combo finisher allows for travel in any direction.",
+    "path": "/4/5/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Dark Phase, a Tech that replaces jumping with the ability to hover through walls.",
+    "path": "/4/5/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Berserker",
+    "path": "/4/6/title",
+    "op": "replace"
+  },
+  {
+    "value": "Berserkers have lost all reason, 'choosing' instead to rage and chop enemies into mincemeat. As long as the weapon they are using can shred through enemies, a Berserker will attempt to use it, no matter the cost.",
+    "path": "/4/6/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies with Shotguns or Hammers. Unlocked faster by defeating higher tier enemies.",
+    "path": "/4/6/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Murderstick, a 2-Handed Shotgun that can be used like a hammer.",
+    "path": "/4/6/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Berserk, a Tech that can be toggled to turn damage taken into bonus Power and Speed.",
+    "path": "/4/6/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Trapper",
+    "path": "/4/7/title",
+    "op": "replace"
+  },
+  {
+    "value": "Trappers take pride in their handicraft, placing complicated traps to capture and dismember unsuspecting enemies. With a rifle in hand, a Trapper can easily deal with enemies that manage to escape, but well, the chances of that are rather slim, huh?",
+    "path": "/4/7/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies with Non-Explosive, Ranged-Weapon Primary Fire while Dexterity is at least 20. Unlocked faster by defeating higher tier enemies.",
+    "path": "/4/7/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Headhunter, a Two-Handed Lever-Action Rifle that enables enemy tracking.",
+    "path": "/4/7/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Dead or Alive, a Tech that lets you place down traps to capture enemies.",
+    "path": "/4/7/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Mercenary",
+    "path": "/4/8/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mercenaries are hired guns that aren't particularly honorable as long as they can secure their kills. Preferring light, one-handed ranged weapons for quick access and ease-of-use, a Mercenary also dabbles with grenades: after all, explosives get the job done twice as fast.",
+    "path": "/4/8/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies while wielding a Pistol in one hand and a Machine Pistol in the other. Unlocked faster by defeating higher tier enemies.",
+    "path": "/4/8/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Shredder, an SMG-Pistol hybrid with high accuracy, high damage, but low firerate.",
+    "path": "/4/8/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Make it Rain, a Tech that causes grenades to rain down on enemies with every dash.",
+    "path": "/4/8/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Pioneer",
+    "path": "/5/0/title",
+    "op": "replace"
+  },
+  {
+    "value": "Searching new lands to discover hidden treasures, Pioneers are the first to colonize new planets. Able to quickly navigate colonized planets and claim new planets for themselves, Pioneers excel in blazing a trail through the galaxy.",
+    "path": "/5/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Explore various planets for more than 3 minutes each.",
+    "path": "/5/0/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Nautilus, a One-handed Tool that can be used to nullify all environmental damage as well as ease movement in all liquids.",
+    "path": "/5/0/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Colonize, a Tech that allows you to place down a Colony Flag on any planet.",
+    "path": "/5/0/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Scout",
+    "path": "/5/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mapping out areas and finding the best paths, Scouts are truly courageous. No matter the terrain, a Scout will properly look around to ensure a safe route in order for others to follow along.",
+    "path": "/5/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Travel to the surface of multiple different planets.",
+    "path": "/5/1/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Third Eye, a Grappling Hook with increased range and a built-in weak-spot detector.",
+    "path": "/5/1/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Heartbeat Sensor, a Tech that highlights nearby hostiles, friendlies, and ores.",
+    "path": "/5/1/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Captain",
+    "path": "/5/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Captains are known for their ability to lead and rally their comrades in battle. While alone, they are nothing to write home about, but with their comrades in battle they are a force to be reckoned with. They analyze the situations help support their teams in being offensive, defensive or even speedy.",
+    "path": "/5/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Have a current Crew Complement of 4 or more.",
+    "path": "/5/2/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to the Leader's Rally, a flag that is able to send a wave of inspiration out to your comrades.",
+    "path": "/5/2/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Ally Stance, a Tech that functions primarily as a Stat-boost for your team that comes at a downside as well.",
+    "path": "/5/2/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Pilot",
+    "path": "/5/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "Take to the skies! Pilots are masters at driving vehicles, whether large crafts like space shuttles or specialized ones like fighter jets. Rather than attacking via weapons, Pilots prefer to use their vehicles to do the fighting.",
+    "path": "/5/3/description",
+    "op": "replace"
+  },
+  {
+    "value": "Get comfortable with your Mech!",
+    "path": "/5/3/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Transformer Matrix, a Vehicle Spawner that can spawn various types of vehicles.",
+    "path": "/5/3/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Nanobot Overcharge, a Tech that acts as a rocket pack and also repairs damaged vehicles.",
+    "path": "/5/3/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Vanguard",
+    "path": "/5/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
+    "path": "/5/4/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use Non-Explosive, Ranged-Weapon Primary Fire to defeat enemies within 12 blocks. Unlocked faster by defeating higher tier enemies.",
+    "path": "/5/4/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Danger Close, a One-Handed Submachine Gun that has terrible accuracy but shreds while near enemies.",
+    "path": "/5/4/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Rush, a Tech that lets you travel towards and attack enemies near instantly.",
+    "path": "/5/4/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Conquistador",
+    "path": "/5/5/title",
+    "op": "replace"
+  },
+  {
+    "value": "Conquistadors are both Explorers and Knights, traveling far and wide to conquer lands unknown with their combat prowess. Trained in both ranged and melee combat, Conquistadors can use bows, crossbows, spears, and many other weapons to take out enemies both near and far.",
+    "path": "/5/5/description",
+    "op": "replace"
+  },
+  {
+    "value": "Use a Spear or Bow to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards. Unlocked faster by defeating higher tier enemies.",
+    "path": "/5/5/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Arquebus, a Crossbow that shoots exploding bolts.",
+    "path": "/5/5/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to The Cavalry's Here, a Tech that summons a horse you can ride.",
+    "path": "/5/5/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Wanderer",
+    "path": "/5/6/title",
+    "op": "replace"
+  },
+  {
+    "value": "Wanderers go where the wind takes them, preferring to do it alone. Masters with the Katana, a Wanderer will never stay in the same place for long.",
+    "path": "/5/6/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies while Dexterity is at least 30. Unlocked faster by using a Katana or defeating higher tier enemies.",
+    "path": "/5/6/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Nomadic Soul, a Two-Handed Katana that can be drawn quickly for increased Power.",
+    "path": "/5/6/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Soliloquy, a Tech that trades Resistance for Power after every successive kill.",
+    "path": "/5/6/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Trapper",
+    "path": "/5/7/title",
+    "op": "replace"
+  },
+  {
+    "value": "Trappers take pride in their handicraft, placing complicated traps to capture and dismember unsuspecting enemies. With a rifle in hand, a Trapper can easily deal with enemies that manage to escape, but well, the chances of that are rather slim, huh?",
+    "path": "/5/7/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies with Non-Explosive, Ranged-Weapon Primary Fire while Dexterity is at least 20. Unlocked faster by defeating higher tier enemies.",
+    "path": "/5/7/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Headhunter, a Two-Handed Lever-Action Rifle that enables enemy tracking.",
+    "path": "/5/7/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Dead or Alive, a Tech that lets you place down traps to capture enemies.",
+    "path": "/5/7/weaponText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Sage",
+    "path": "/5/8/title",
+    "op": "replace"
+  },
+  {
+    "value": "Sages are enlightened monks that have traveled far and wide. Honing their bodies has given them slightly hightened combat potential, enabling them to wield certain melee weapons with grace and power.",
+    "path": "/5/8/description",
+    "op": "replace"
+  },
+  {
+    "value": "Defeat enemies with Nova, Fire, Electric, Ice, or Holy Damage while Vitality, Dexterity, and Intelligence are at least 20. Unlocked faster by defeating higher tier enemies.",
+    "path": "/5/8/unlockText",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Rapture, a Two-Handed Glaive that can change element and summon beams of Holy light.",
+    "path": "/5/8/weaponText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Gain access to Chrysalis, a Tech that lets you buff teammates and increase element resistance.",
+    "path": "/5/8/weaponText/1",
+    "op": "replace"
+  }
+]

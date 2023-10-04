@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Mini-Bosses - Mini-Boss Dictionary - Hardened Masteroid",
+    "path": "/ivrpg_hardenedmasteroid",
+    "op": "replace"
+  },
+  {
+    "value": "Mini-Bosses - Mini-Boss Dictionary - Hardened Masteroid (Mid)",
+    "path": "/ivrpg_hardenedmasteroidmid",
+    "op": "replace"
+  },
+  {
+    "value": "Mini-Bosses - Mini-Boss Dictionary - Giant Mandraflora",
+    "path": "/ivrpg_giantmandraflora",
+    "op": "replace"
+  },
+  {
+    "value": "Mini-Bosses - Mini-Boss Dictionary - Hungry Parasprite",
+    "path": "/ivrpg_hungryparasprite",
+    "op": "replace"
+  },
+  {
+    "value": "Mini-Bosses - Mini-Boss Dictionary - Shielded Trifangle",
+    "path": "/ivrpg_shieldedtrifangle",
+    "op": "replace"
+  },
+  {
+    "value": "Mini-Bosses - Mini-Boss Dictionary - Shielded Chiropterror",
+    "path": "/ivrpg_shieldedchiropterror",
+    "op": "replace"
+  },
+  {
+    "value": "Mini-Bosses - Mini-Boss Dictionary - Giant Ice Narfin",
+    "path": "/ivrpg_gianticenarfin",
+    "op": "replace"
+  },
+  {
+    "value": "Mini-Bosses - Mini-Boss Dictionary - Giant Fire Lumoth",
+    "path": "/ivrpg_giantfirelumoth",
+    "op": "replace"
+  },
+  {
+    "value": "Mini-Bosses - Mini-Boss Dictionary - Giant Electric Petricub",
+    "path": "/ivrpg_giantelectricpetricub",
+    "op": "replace"
+  },
+  {
+    "value": "Demonic Enemies - Demonic Spookit",
+    "path": "/ivrpg_demonicspookit",
+    "op": "replace"
+  },
+  {
+    "value": "Holy Enemies - Holy Wisper",
+    "path": "/ivrpg_holywisper",
+    "op": "replace"
+  },
+  {
+    "value": "Corrupted Enemies - Corrupted Scandroid",
+    "path": "/ivrpg_corruptedscandroid",
+    "op": "replace"
+  }
+]

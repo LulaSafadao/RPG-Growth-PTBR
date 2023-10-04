@@ -1,0 +1,12 @@
+{
+  "author" : "MrFudencio",
+  "description" : "Tradução do RPG Growth",
+  "friendlyName" : "Tradução do RPG Growth",
+  "includes" : [""],
+  "link" : "steam://url/CommunityFilePage/3045556342",
+  "name" : "RPGGrowthPTBR",
+  "requires" : [],
+  "steamContentId" : "3045556342",
+  "tags" : "Miscellaneous|User Interface",
+  "version" : "04102023"
+}

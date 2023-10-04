@@ -1,0 +1,888 @@
+[
+[
+  {
+    "value": "No Changes.",
+    "path": "/RPGAI_text",
+    "op": "replace"
+  },
+  {
+    "value": "Changelog",
+    "path": "/changelog/title",
+    "op": "replace"
+  },
+  {
+    "value": "^red;Known Bugs and Issues",
+    "path": "/changelog/children/knownbugs/title",
+    "op": "replace"
+  },
+  {
+    "value": "Skill Points are not granted when leveling while entering and exiting a mech. Use the Skill Tab Reset Button to gain any missing points.
+When two or more Specialization Lore toasts should pop, only one does (all are still unlocked, however).
+Elementress and Hunter do not have robust Tech descriptions.
+Jewelry does not slot into some modded armor due to how certain mods categorize armor.
+Certain Ranged Weapons added by other mods do not utilize 'bullet' or 'shotgun' damage kinds, meaning they do not progress the Specialization unlocks that require Ranged Weapon kills.
+Stardust Core overwrites npc_primary.lua, causing shielded NPCs to be unkillable.
+Katanas do not trigger Perfect Shield bonuses.",
+    "path": "/changelog/children/knownbugs/children",
+    "op": "replace"
+  },
+  {
+    "value": "^blue;Upcoming Patch 1.96",
+    "path": "/changelog/children/1.96/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons:
+    Added \"Karma Suit's Ya\", a Unique Grimoire with unique attacks: root enemies in place with its Alt Fire and then follow up with a large eruption using its Primary Fire.
+Specializations:
+    Pilot, a new Explorer Specialization, can now be equipped.
+    Saboteur, a new Rogue Specialization, can now be equipped.",
+    "path": "/changelog/children/1.96/children",
+    "op": "replace"
+  },
+  {
+    "value": "^magenta;Patch 1.95",
+    "path": "/changelog/children/1.95/title",
+    "op": "replace"
+  },
+  {
+    "value": "Bugs:
+    Zia's Legacy now spawns at level 6.
+    Adrenaline Rush - Mind should now properly activate.
+Mechanics:
+    Specialization and Class updates to Classic Mode thanks to Rylasasin.
+    GiC support thanks to Rylasasin.
+    More Mage Baton support thanks to Rylasasin.
+    Wizard Class Ability now works with Grimoires and Orbs.
+Weapons:
+    Added Eldnir, an Electric Spear for a Patron.
+    Reimplemented Oathkeeper thanks to Ribs.
+    True Aegis now maintains its Perfect Shield Bonus when unequipped.
+Professions:
+    Added Alchemist.",
+    "path": "/changelog/children/1.95/children",
+    "op": "replace"
+  },
+  {
+    "value": "^magenta;Patch 1.94",
+    "path": "/changelog/children/1.94/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons:
+    Added Orbs, a new type of randomly generated magic weapon. See the lore entry that unlocked on launch for more information.
+    Added \"Zia's Legacy\", a Unique Grimoire with unique attacks: change elements with its Alt Fire and then unleash a flurry of projectiles with its Primary Fire.
+Skills:
+    Modified some skills to have a slightly better trade-off.
+        Increased the Health percentage and Power Multiplier of 'Adrenaline Rush - Body'
+        Increased the Health percentage of 'Adrenaline Rush - Mind', and changed the Max Energy benefit to Energy Regen Delay and Recharge Rate.
+        Changed Armor to Physical Resistance for 'Armor Up' Skills.",
+    "path": "/changelog/children/1.94/children",
+    "op": "replace"
+  },
+  {
+    "value": "^magenta;Patch 1.93",
+    "path": "/changelog/children/1.93/title",
+    "op": "replace"
+  },
+  {
+    "value": "Objects:
+    Grimoire Inscriber:
+        Added a new crafting station that can be crafted in the Inventor's Table.
+        Allows you to dissassemble and reassemble Grimoires, as well as create new ones using Magic Pages.
+Weapons:
+    Grimoires:
+        Charge animation now fullbright.
+        Greater Arc, Sol, and Lux:
+            Motes last 60 seconds instead of 30 seconds.
+            Motes have a larger area of effect for triggering status.
+            Motes no longer collide with walls.
+        Elemental Burst and Bolt:
+            Base damage increased by 2.
+    Magic Pages:
+        Crafted in the anvil.
+        Used to create random abilities via the Grimoire Inscriber.
+Specializations:
+    Elementress:
+        Massive Magma Zone now has a chance to use a different image for variation.",
+    "path": "/changelog/children/1.93/children",
+    "op": "replace"
+  },
+  {
+    "value": "^magenta;Patch 1.92",
+    "path": "/changelog/children/1.92/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mechanics:
+    Fixed a longstanding incompatibility with Stardust Core/Lib. Shielded NPCs should now always be defeatable.
+UI:
+    Added two tooltip kinds for RPG Growth specific items. As of right now, Grimoires, Class Crafting Items, and Specialization Weapons have been moved to this new format.
+Specializations:
+    Warlock, a new Wizard Specialization, can now be equipped.
+    Assassin, a new Ninja Specialization, can now be equipped.
+    Mercenary, a Soldier and Rogue Specialization, can now be equipped.
+    Berserker, a Knight and Rogue Specialization, can now be equipped.
+    Trapper, an Explorer and Rogue Specialization, can now be equipped.
+    Elementress Revamped:
+        Attune Tech:
+            [Shift] + [Special 2] Attack removed.
+            Getting kills with the Primary/Alt Fire Attack increases Elementress' Potential with the Element used: upgrading from Lesser, to Standard, to Greater, to Chaos. With each upgrade, Primary Fire deals more Damage, but costs more. At Chaos, these Attacks gain additional effects.
+            When an Element's Potential is Standard or better, press [Shift] + [Primary Fire] to sacrifice Potential, instantly casting new Ultimate attacks.",
+    "path": "/changelog/children/1.92/children",
+    "op": "replace"
+  },
+  {
+    "value": "^magenta;Patch 1.91",
+    "path": "/changelog/children/1.91/title",
+    "op": "replace"
+  },
+  {
+    "value": "General:
+    Updated the Patron list to include all Patrons who have not been added yet.
+Weapons:
+    Grimoires:
+        Can no longer be equipped by every Class that can use two-handed weapons.
+        Thoron image now properly loops.
+        Judgement now properly does Holy damage instead of Demonic.
+        Grimoires no longer consume Energy on discharge if no spell was cast.
+        Having Intelligence at 20 now properly enables Grimoires with 50% power.
+Specializations:
+    Adept:
+        Revamped Phase Shift: While holding Primary Fire, cursor movement is tracked. Upon releasing Primary Fire, unleash a rift of energy that follows those movements, dealing more damage the longer it travels.
+        Revamped Passive: Nearby allies gain a temporary Speed Boost once Energy recharges. When Energy depletes, nearby enemies are pushed away.",
+    "path": "/changelog/children/1.91/children",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Update 1.9",
+    "path": "/changelog/children/1.9/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mechanics:
+    Fixed a bug where the Level Up text pop-up would show numbers greater than 50 when grabbing large chunks of experience.
+Weapons:
+    Added Grimoires, a new type of randomly generated magic weapon. See the lore entry that unlocked on launch for more information.
+Profession:
+    Jeweler:
+        Fixed two longstanding bugs, one that could corrupt armor, and the other that would duplicate effects.
+        Jewelry should now be equippable on most armor pieces.
+        Added a radio message when picking up jewelry as well as a lore entry for better instructions.
+Classes:
+    Soldier: fixed a bug with Tank Sphere that would cause energy to lock.
+    Wizard's Class Ability modified to work with Wands, Staffs, Grimoires, and Magic Orbs.
+Specializations:
+    Adept:
+        Flash Step activation modified: hold Shift to teleport. Jumping without holding Shift changed back to a normal jump.
+    Battle Mage:
+        Now has Strength Scaling x2 instead of x1.
+        Can now be unlocked with scythes.
+        Revamped Tech: Battle Aura improved in various ways, with better damage, defense, and speed potential than prior.
+        Gave Solstice a passive: while charged, kills with Solstice prevent Battle Auras from decaying for a few seconds.
+    Changeling:
+        Grants +15 Virtual Strength, Dexterity, and Intelligence.
+        While transformed, gain an additional +20% Physical Resistance and +15 Virtual Agility and Endurance.
+        Wisper:
+            Base Flight Speed increased from 8 to 10.
+            Acceleration increased by 300% for tighter turns and so that maximum movement speed is reached faster.
+            Primary Fire windup decreased to 0.5 from 0.8 seconds. Ice projectile speed doubled and hitbox increased. Deals 100% more damage.
+            Alt Fire windup decreased to 0.5 from 0.8 seconds. Consumes 5% Max Health on cast, rather than 10%, but deals the same amount of damage.
+        Poptop:
+            Walk Speed increased to 3 from 2. Run Speed increased to 8 from 3.
+            Primary Fire windup decreased to 0.2 from 0.4 seconds. Restores 15% of Damage Dealt as Health. Deals 100% more damage.
+            Alt Fire length increased to 0.9 from 0.7 seconds. If no enemy is found within 0.45 seconds, Alt Fire immediately ends, allowing you to move again; otherwise, the move acts as normal, but lasts 0.2 seconds longer.
+            Special 2 no longer consumes Energy. Now immediately increases Movement Speed by 20%, increases up to 50%, and does not decay like Power Multiplier.
+            Removed the Decreased Agility Scaling.
+        Adult Poptop:
+            Walk Speed increased to 3 from 2. Run Speed increased to 6 from 3.
+            Primary Fire windup decreased to 0.3 from 0.5 seconds.
+            Alt Fire length increased to 0.9 from 0.7 seconds. If no enemy is found within 0.45 seconds, Alt Fire immediately ends, allowing you to move again; otherwise, the move acts as normal, but lasts 0.2 seconds longer.
+        Orbide:
+            Walk Speed increased to 2 from 1. Run Speed (not Special 3 Sprint Speed) increased to 6 from 3.
+            Primary Fire windup decreased to 0.6 from 1 seconds. Deals 100% more damage.
+            Alt Fire restores 10% of Damage Dealt as Health. Deals 100% more damage.
+            When Special 2 is fully activated, monsters lose aggro. Health Regeneration changed to Regeneration 3 from Regeneration 2.
+    Mechanist:
+        Skynet Turret and Drone Max Level increased to 6 from 4, and their Level scales 66% faster.
+        Increased Turret's Projectile Base Power to 12 from 10.
+        Increased Drone's Power Multiplier by 33%, but decreased Turret's Power Multiplier by 33%: Turret's Damage output is now 2.4x that of Drone's, instead of 4x.
+        Because Level determines a monster's stats, both Turret and Drone can greatly exceed their damage output pre-patch.
+    Necromancer:
+        Passive now activates on kill with any weapon, not just Demonic, Scythe, and Dagger damage.
+        For Us All now adds an additional, individual 50% chance to trigger Necromancer's Passive on kill.
+        Each Bone Pteropod summoned by Reap takes 10% of any damage you take, healing you back by that amount.
+        Fixed a bug where 6 Souls only created 5 Bone Pteropods.
+    Technomancer:
+        To promote the use of the Technomancer Specialization under the Soldier Class, the additional Ranged Weapon Damage Scaling has been changed from Intelligence to Vigor.",
+    "path": "/changelog/children/1.9/children",
+    "op": "replace"
+  },
+  {
+    "value": "Patch 1.81",
+    "path": "/changelog/children/1.81/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mechanics:
+    Fishing now grants Experience as well as Upgrade Chips and Scrolls (Azure Fang).
+    Many Treasure Pools moved to separate files to prevent them from being overwritten (Azure Fang).
+Specializations:
+    Elementress:
+        Attune now stores Element so that switching zones does not shift back to Fire.
+        Attune's active abilities can no longer be used while an active movement ability, such as Distortion Sphere, is active.
+    Samurai's Samurai Heart is now colored and appears at the top of the Anvil Crafting Menu.
+    Wanderer's Nomadic Soul now requires Ethereal Blade instead of Meteoric Metal. Re-select Wanderer to get the blueprint for Ethereal Blade.",
+    "path": "/changelog/children/1.81/children",
+    "op": "replace"
+  },
+  {
+    "value": "Update 1.8",
+    "path": "/changelog/children/1.8/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mechanics:
+    Fishing now grants Experience as well as Upgrade Chips and Scrolls (Azure Fang).
+    Many Treasure Pools moved to separate files to prevent them from being overwritten (Azure Fang).
+Specializations:
+    Elementress:
+        Attune now stores Element so that switching zones does not shift back to Fire.
+        Attune's active abilities can no longer be used while an active movement ability, such as Distortion Sphere, is active.
+    Samurai's Samurai Heart is now colored and appears at the top of the Anvil Crafting Menu.
+    Wanderer's Nomadic Soul now requires Ethereal Blade instead of Meteoric Metal. Re-select Wanderer to get the blueprint for Ethereal Blade.
+
+"
+            },
+            "1.8" : {
+                "title" : "Update 1.8",
+                "version" : 1.8,
+                "children" :
+"Mechanics:
+    Removed updateDelta change in deployment script to allow FU Mechs to prevent environmental status.
+    The Mysterious Book is now granted to new characters in their ship locker.
+    Unique Elemental Monsters now drop experience and related elemental items (Azure Fang).
+    EE Compatibility - Feathers can now be researched at the Tier 3 Hunt Table.
+    Hunter Rifle now tagged as a Sniper Rifle.
+    While Mastery is unlocked, Specializations can be progressed and equipped.
+UI:
+    All Techs now use [Special 1], [Special 2], [Special 3] when referring to keybinds.
+    All Techs now specify to jump, rather than to use [Space].
+    All Techs now specify directions instead of using [W], [A], [S], or [D].
+    All Specialization Stat Requirements normalized to require 'at least' a certain amount, rather than stating 'greater than'.
+    Prestige text modified to better indicate the reset to Level 1.
+Classes:
+    Knight:
+        Slam Tech now uses double-tap down instead of [Special 2] for activation.
+    Explorer:
+        Drill Sphere:
+            Now uses [Shift] + [Special 1] for drill activation, and [Special 1] for sphere transformation.
+            Drill activation sound replaced.
+Specializations:
+    All Specializations are now unlockable, but some are still disabled.
+    Certain Specialization unlocks that required stats, such as Kunoichi and Adept, have been laxed by one.
+    Adept:
+        Can now be unlocked when Mastery is unlocked.
+        Now has a specialRequirements parameter in ivrpgSpecList.config so that modders can patch in other values for required Agility and Intelligence (including 0).
+    Canoneer's Bomb's Away cannon-launch volume halved to make it less obnoxious when using it as a double jump.
+    Conquistador - a Knight and Explorer Specialization - complete. Thank you, Banny, for all the sprites :)
+    Dragoon:
+        Dragon's Leap now uses double-tap down to activate while aerial.
+        Dragon's Leap now properly flashes when the slam recharges.
+        Can now be unlocked via Fall Damage again!
+    Juggernaut's Limit Break now uses [Special 2] to activate.
+    Kunoichi:
+        Swirling Petal now uses [Special 2] to activate.
+        Swirling Petal can now be used while aerial.
+    Operative's EMP Sphere now uses [Shift] + [Special 1] to plant beacons.
+    Paladin:
+        Paladin can now be unlocked via Perfect Shields against any enemy.
+        Can now be unlocked while Mastery is unlocked.
+        Immaculate Shield now uses [Special 2] to activate.
+    Pioneer:
+        Unlock requirements changed from 20 Planets to 10 Planets explored.
+    Sage:
+        Fixed a bug in Chrysalis where damaging multiple enemies in quick succession would fill Souls, but would still display empty Souls.
+    Samurai - a Male Knight Specialization - complete.
+    Shade's Quasar now uses [Special 2] to activate.
+    Titan:
+        Atlas' Burden now uses [Special 2] to activate.
+        Can now be unlocked again!
+        Can now be unlocked when Mastery is unlocked.
+    Wanderer - a Ninja and Explorer Specialization - complete.",
+    "path": "/changelog/children/1.8/children",
+    "op": "replace"
+  },
+  {
+    "value": "Patch 1.73",
+    "path": "/changelog/children/1.73/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mechanics:
+    Skill points are now granted when leveling in a mech.
+    Level Up sound now plays when leveling in a mech.
+    Every Prestige now grants +3 permanent Stat Points.
+    If the player who gets the final kill has a matching Mastery Boss Challenge, it will trigger for nearby players.
+    Many level requirements changed to rely on values in ivrpgLevelRequirements.config so that players can easily create patches to change them.
+    More FFS compatibility thanks to Rylasasin.
+Weapon Scaling:
+    Whips now scale with Dexterity or Strength, similar to Katanas.
+Class:
+    Soldier:
+        Classic Mode:
+            Can wield Daggers with Ranged Weapons.
+    Ninja:
+        Classic Mode:
+            Health Penalty changed from 0.5x to 0.66x.
+Specializations:
+    Now unlock at Level 30 instead of Level 35.
+    Paladin:
+        Immaculate Shield:
+            Range for healing pulse increased to 30 from 15.
+            Healing percent now properly scales with Intelligence and Strength, instead of just Strength x2.
+    Valkyrie:
+        Einherjar:
+            No longer drains Health when activating ally immortality.
+            Added a heal conversion for healing allies quickly and efficiently.
+    Cannoneer:
+        Fighting Lion:
+            Rare Lua error due to how Starbound culls entities fixed.
+Items:
+    Added a Challenge Reset Scroll for those who are having issues triggering Mastery Challenges. Currently only obtainable through commands: ivrpgscrollresetchallenges.,
+    "path": "/changelog/children/1.73/children",
+    "op": "replace"
+  },
+  {
+    "value": "Patch 1.72",
+    "path": "/changelog/children/1.72/title",
+    "op": "replace"
+  },
+  {
+    "value": "Lore:
+    Kunoichi and Pioneer now unlock certain lore entries when equipped. Re-equip them to unlock said lore.
+Specializations:
+    Fae - A Rogue Specialization - enabled.",
+    "path": "/changelog/children/1.72/children",
+    "op": "replace"
+  },
+  {
+    "value": "Patch 1.71",
+    "path": "/changelog/children/1.71/title",
+    "op": "replace"
+  },
+  {
+    "value": "UI:
+    Removed 'Equip True Understanding' line in Specialization tab if gender matches.
+    Overhauled Changelog and Credits Tabs to follow the same list structure as Lore for easier readability and better sorting.
+Mechanics:
+    Modified unique monsters to use a copy of vanilla scripts to prevent incompatibility with Stardust Lib.
+    RPG AI:
+        Enemy and friendly AI no longer attempt to dodge environmental projectiles, like rain.
+Specializations:
+    Necromancer:
+        Reap tech now shows how many Bone Pteropods can be spawned via dark floating orbs.
+        UI for Reap now specifies that Bone Pteropods can only be spawned after getting kills with Reap itself.
+    Deadshot:
+        Changed Lotus' bullet pathfinding to better follow mouse cursor.
+        Bullets now travel for a short period before being able to start pathfinding.
+    Juggernaut:
+        Changed Cleaving Meteor primary fire to utilize its own script, rather than the vanilla hammer script, to fix potential issue with another mod.
+        Changed Cleaving Meteor primary weapon script so that it cannot be equipped by other Specialization without power loss in Classic Mode.
+    Mechanist - A Soldier Specialization - enabled.
+    ^green;Thanks to my Patrons^reset;, the following Specializations have been added:
+        Sage - A Wizard and Explorer Specialization - enabled.
+        Operative - A Ninja and Soldier Specialization - enabled.",
+    "path": "/changelog/children/1.71/children",
+    "op": "replace"
+  },
+  {
+    "value": "Update 1.7",
+    "path": "/changelog/children/1.7/title",
+    "op": "replace"
+  },
+  {
+    "value": "UI:
+    Changed some colors in the overview tab to better catch the eye.
+    Added a line of text to Gender-Locked Specializations for better clarification.
+    Added the remaining text for all Specializations, even those that cannot be unlocked.
+Classes:
+    Soldier:
+        MRE now compatible with many mod grenades.
+Specializations:
+    Necromancer:
+        Changed primary fire to utilize its own script, rather than the vanilla broadsword combo script, to fix potential issue with another mod.
+    Vigilante:
+        Added some more NPC types to unlock list.
+    Thanks to my Patrons, the following Specializations have been added:
+        Battle Mage - A Wizard Specialization - enabled.
+        Shade - A Male Only Ninja Specialization - enabled.
+        Juggernaut - A Knight Specialization - enabled.
+        Deadshot - A Soldier Specialization - enabled.
+    Some more disabled Specs can now gain progress towards unlock, despite being unavailable to equip.",
+    "path": "/changelog/children/1.7/children",
+    "op": "replace"
+  },
+  {
+    "value": "Patch 1.64",
+    "path": "/changelog/children/1.64/title",
+    "op": "replace"
+  },
+  {
+    "value": "Classes:
+    Wizard:
+        Can equip Saturn Batons in Classic Mode    
+    Knight:
+        Added bonus damage with Longswords (FU).
+Weapons:
+    Aether Tantos: Combo Speed increased. Base Damage decreased.
+    Luxuria: Energy Consumption decreased.
+Compatibility:
+    Saturn Batons now scale with Intelligence.
+    Some FFS monsters now drop XP.
+    Certain Classes and Specializations work better with FFS weapons.",
+    "path": "/changelog/children/1.64/children",
+    "op": "replace"
+  },
+  {
+    "value": "Patch 1.63",
+    "path": "/changelog/children/1.63/title",
+    "op": "replace"
+  },
+  {
+    "value": "Classes:
+    Ninja: Flash Jump and Wall Cling now have a unique Safe Fall Status.
+    Rogue: Specialization progress no longer occasionally stops due to a lua error.
+Items:
+    Silicon Bronze now available to craft in the Furnace and Miner Station.
+Mechanics:
+    Launched and Slammed Status (currently only used by Heartless) are now affected by grit (Knockback Resistance).
+Professions:
+    Jeweler is now enabled. Help yourself and your allies with jewelry you can attach to armor.
+Specializations:
+    Dark Templar: Abounding Darkness now heals for Bleed Damage / 3 rather than Bleed Damage / 2.
+    Hunter: Cloaking now utilizes a unique Camouflage Status.",
+    "path": "/changelog/children/1.63/children",
+    "op": "replace"
+  },
+  {
+    "value": "Patch 1.62",
+    "path": "/changelog/children/1.62/title",
+    "op": "replace"
+  },
+  {
+    "value": "Items/Weapons:
+    All Specialization Weapon Recipes normalized. They now all require Solarium, but their Class Item cost is reduced.
+Mechanics:
+    Classic Mode:
+        Weapon combinations enabled by Specializations are calculated after ones enabled by Professions to prevent cases where combinations that are valid are mistakenly overwritten, and thus disabled, by Professions.
+Classes:
+    Wizard:
+        Nova Staff no longer resets to the wrong Element when holding shift after a certain set of circumstances.
+        Translocate:
+            During missions, now calculates via pathfinding rather than line of sight. This prevents going through gaps meant for Spike Sphere, but lets you teleport through curved geometry. Thanks Dan.
+        Magic Shield:
+            Energy Regen Bonus now maxes at a 1.4x Energy Regen Bonus instead of 1.5x.
+            Intelligence and Vigor Scaling now takes a bit longer to reach max Energy Regen.
+            Now stays active through Instance changes.
+        Controlled Hover:
+            Energy Multiplier for hovering in place slightly increased (0.5 -> 0.66).
+    Ninja:
+        Shadow Step:
+            During missions, now calculates via pathfinding rather than line of sight. This prevents going through gaps meant for Spike Sphere, but lets you teleport through curved geometry. Thanks Dan.
+Specializations:
+    Elementress: Eclipse Energy Cost raised from 10 to 25.
+    Technomancer - A Soldier and Wizard Specialization - added.
+    Dark Templar - A Knight and Ninja Specialization - enabled.",
+    "path": "/changelog/children/1.62/children",
+    "op": "replace"
+  },
+  {
+    "value": "Patch 1.61",
+    "path": "/changelog/children/1.61/title",
+    "op": "replace"
+  },
+  {
+    "value": "Classes:
+    Class Quests should now be properly finishable when using SAILs from FU or Racial Mods.
+    Ninja:
+        Shadow Step:
+            No longer generates Item Configs without a protected call, and the damage calculation for the slash attack was altered, meaning Lua crashes when using this tech should never occur.
+        Flash Jump and Wall Cling:
+            Not holding a direction now defaults to an upwards jump instead of one in your facing direction. This should make it easier to land on thin platforms, even at high Agility.
+                This will also make it harder to accidentally cling to walls when jumping up narrow shafts.
+            Landing in water after using a flash jump now takes a brief period of time before removing Feather Fall to prevent taking damage.
+Professions:
+    Smith:
+        Smith Station no longer allows you to change the element of Legendary and Essential Weapons.
+            This should prevent errors with these weapons.
+        Smith Station Weapon Levels lowered. Copper can no longer be used, Iron is Level 1, and Solarium is Level 6.
+        Smith UI increased in size so that more information can be added.
+Mechanics:
+    RPG Growth now loads after Difficulty+ to prevent protection from granting 100% Damage Reduction.
+    Killing enemies with Bleed counts as whatever damage kind was used to proc bleed when unlocking Specializations.
+RPG AI:
+    Because of variable/function name refactoring, RPG AI must now have the same refactor-version as RPG Growth to work.
+    Some monsters behaviors were changed.
+Bug Fixes:
+    Certain Functions and Variables refactored to prevent compatibility issues.",
+    "path": "/changelog/children/1.61/children",
+    "op": "replace"
+  },
+  {
+    "value": "Update 1.6",
+    "path": "/changelog/children/1.6/title",
+    "op": "replace"
+  },
+  {
+    "value": "Items:
+    Recipes for Class Items and Weapons reduced drastically and normalized.
+    Recipes for Class Items using Mastery Points normalized.
+    Tungsten Wands:
+        As part of RPG Growth's soon-to-come intrinsic Magic Overhaul, three new Tier 2 Wands have been added to the Anvil.
+        These three wands come in Ice, Fire, and Electric elements, and are greatly helpful to early-game Wizards.
+    Broken Wand:
+        Now properly discharges when Energy locks.
+Enemies:
+    New Monsters added, with various mechanics to increase combat difficulty.
+    Check Lore - Mechanics - Enemies for more information after you defeat one.
+UI:
+    Rudimentary Level Up Bar now toggleable via the Overview Tab (little Check Mark at the bottom).
+    Class Weapon Quest can now be restarted infinitely in case it was abandoned.
+Professions:
+    Tamer:
+        Toggleable Ability now only activates on captured monsters, as stated.
+        This also makes the range at which it works infinite, and lowers script strain.
+Classes:
+    Initial Class Weapon Quest can now be abandoned.
+    Ninja:
+        Aether Tantos can now be partially aimed three times mid-combo.
+        Vanish Sphere no longer bounces backwards when transforming with high Agility.
+    Wizard:
+        Nova:
+            Damage change from element difference no longer grows multiplicatively at higher Power Multipliers.
+            Because of this, the difference between Ice and Fire has shrunken considerably.
+        Controlled Hover:
+            Now utilizes WASD rather than aim position.
+            Base Energy Cost decreased to 50eps from 75eps.
+            Energy Cost greatly decreased when hovering in place or downwards.
+            Energy Cost greatly increased when hovering upwards.
+            Speed is now normalized in every direction.
+        Gravity Sphere:
+            Hover Sphere Upgrade Chip now follows the same logic as Controlled Hover.
+    Soldier:
+        No longer need to equip a Grenade with One-Handed Ranged Weapons to receive 120% Base Damage. Bonus now applies when at least one - but not more than one - One-Handed Ranged Weapon is equipped.
+Skills:
+    True Understanding - Body: now provides +5 Max Health.
+    True Understanding - Mind: now provides +5 Max Energy.
+    True Understanding - Soul: now provides +2.5% Power Multiplier.
+Mechanics:
+    Initial Weapon Quests changed from gathering items to battling in an Arena.
+    Added compatibility with Equivalent Exchange - specifically for the 6 Class Item drops.
+Techs:
+    All basic Class Techs now have a built in shortcut to open the Mysterious Book - Hold Shift and triple-tap Crouch within ~0.45 seconds.
+Specializations:
+    Hunter's Cloak, when active, de-activates after dealing damage.
+    Valkyrie's Specialization Lore now properly unlocks when Valkyrie is unlocked.
+    Unlocking Captain now utilizes a script from the new Companion Lua to reduce script load.
+    Dark Templar is still disabled while its Weapon is being created, and its Tech reworked.",
+    "path": "/changelog/children/1.6/children",
+    "op": "replace"
+  },
+  {
+    "value": "Acknowledgements",
+    "path": "/credits/title",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Programming",
+    "path": "/credits/children/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Lua Scripting",
+    "path": "/credits/children/1/children/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "^#ffaafa;Chaika? Yes. Chaika.",
+    "path": "/credits/children/1/children/1/children/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Main Programmer.
+Responsible for GUI, Main Status Scripts, Techs, Abilities, Weapons, etc.
+Kunoichi is bae. Hunter is bae.",
+    "path": "/credits/children/1/children/1/children/1/children",
+    "op": "replace"
+  },
+  {
+    "value": "^magenta;DanMan",
+    "path": "/credits/children/1/children/1/children/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Secondary Programmer.
+Wrote some Tech and Ability Scripts.
+Wrote Lotus Alt Fire pathfinding.
+Wrote Bash Scripts to automate file creation.",
+    "path": "/credits/children/1/children/1/children/2/children",
+    "op": "replace"
+  },
+  {
+    "value": "^magenta;Rylasasin",
+    "path": "/credits/children/1/children/1/children/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "Made many compatibility changes via Git Pull Requests: FFS, Saturn Batons, FU compatibility, etc.",
+    "path": "/credits/children/1/children/1/children/3/children",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Alberto-Rota",
+    "path": "/credits/children/1/children/1/children/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "Author of Weapon Assembly, which was used to help create Jeweler's Jewelry Extractor.
+Made some helpful changes to a few scripts via Git Pull Requests.",
+    "path": "/credits/children/1/children/1/children/4/children",
+    "op": "replace"
+  },
+  {
+    "value": "^blue;Mighty Annihilator",
+    "path": "/credits/children/1/children/1/children/5/title",
+    "op": "replace"
+  },
+  {
+    "value": "Author of Augment Extractor, which was used to help create Jeweler's Jewelry Extractor.",
+    "path": "/credits/children/1/children/1/children/5/children",
+    "op": "replace"
+  },
+  {
+    "value": "JSON",
+    "path": "/credits/children/1/children/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "^blue;Azure Fang",
+    "path": "/credits/children/1/children/2/children/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "JSON extraodinaire!
+Taught me how to properly patch JSON, and created quite a lot of patches as well!
+Wouldn't have a lot of the important big JSON patches without him.",
+    "path": "/credits/children/1/children/2/children/1/children",
+    "op": "replace"
+  },
+  {
+    "value": "^blue;Ribs",
+    "path": "/credits/children/1/children/2/children/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Made JSON for many of the melee weapons, such as the Aegis and Aether line, Heartless and Oathkeeper.",
+    "path": "/credits/children/1/children/2/children/2/children",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Patrons",
+    "path": "/credits/children/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Caine
+Caine
+Lorekeeper
+Fylix
+Aegis
+MaximumDumb
+Guilherme
+Mightyfarmer3
+DocDewrill
+DodgerJPS
+Kurlya
+Mightyfarmer3
+Arcadye1002
+Mathias
+Refolde
+^green;Thanks for everything! :)",
+    "path": "/credits/children/2/children",
+    "op": "replace"
+  },
+  {
+    "value": "^blue;Spriting",
+    "path": "/credits/children/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "^#882288;Nagoek",
+    "path": "/credits/children/3/children/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons: Versa, Aegis, Spira, Nova, Siphon, For Us All, True Aegis, Nautilus, Gungnir, Anne, Marie, Danger Close, Soulless Whisper, Solstice, Nomadic Soul.",
+    "path": "/credits/children/3/children/1/children",
+    "op": "replace"
+  },
+  {
+    "value": "^red;Steven Steel",
+    "path": "/credits/children/3/children/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons: Aether, Phase Shift, Stormhowl, Eclipse.",
+    "path": "/credits/children/3/children/2/children",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Caine",
+    "path": "/credits/children/3/children/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons: Mida, Fear. Grimoires and Grimoire Abilities.",
+    "path": "/credits/children/3/children/3/children",
+    "op": "replace"
+  },
+  {
+    "value": "^yellow;Banny",
+    "path": "/credits/children/3/children/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons: Outburst, Leader's Rally, Epimetheus, Arquebus, Samurai Heart.\nIcons: Kunoichi, Captain, Titan, Conquistador.",
+    "path": "/credits/children/3/children/4/children",
+    "op": "replace"
+  },
+  {
+    "value": "^blue;DocDewrill",
+    "path": "/credits/children/3/children/5/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons: Lotus, Breathless.",
+    "path": "/credits/children/3/children/5/children",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Caladbolg",
+    "path": "/credits/children/3/children/6/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons: Heartless, Dragon's Bane, Cleaving Meteor",
+    "path": "/credits/children/3/children/6/children",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;JM401",
+    "path": "/credits/children/3/children/7/title",
+    "op": "replace"
+  },
+  {
+    "value": "Items: Profession Stations.\nIcons: Professions.",
+    "path": "/credits/children/3/children/7/children",
+    "op": "replace"
+  },
+  {
+    "value": "^yellow;Samey the Hedgehog",
+    "path": "/credits/children/3/children/8/title",
+    "op": "replace"
+  },
+  {
+    "value": "Items: Spiral Energy, Spiral Power.",
+    "path": "/credits/children/3/children/8/children",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Wrench",
+    "path": "/credits/children/3/children/9/title",
+    "op": "replace"
+  },
+  {
+    "value": "Specializations: Mechanist Turret & Drone.",
+    "path": "/credits/children/3/children/9/children",
+    "op": "replace"
+  },
+  {
+    "value": "General Design",
+    "path": "/credits/children/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Caine",
+    "path": "/credits/children/4/children/1/title",
+    "op": "replace"
+  },
+  {
+    "value": "Requested (and helped design) Caine's Chest, a Chest that turns into a weapon! Caine's Chest is craftable via the Chest tab in the Industrial Workbench.
+It will function like a normal Chest until left in pitch dark, where it will then become a weapon. Be careful... If you want to skip the steps to actually get the weapon, the ID is 'ivrpgwcaineschest'!
+Helped make the sprites for and design Grimoire abilities.",
+    "path": "/credits/children/4/children/1/children",
+    "op": "replace"
+  },
+  {
+    "value": "^blue;Ribs",
+    "path": "/credits/children/4/children/2/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapon Combos: Oathkeeper, Aegis, Aether, Heartless, Solstice, Rapture, Samurai Heart.\nSpecializations: Crusader.",
+    "path": "/credits/children/4/children/2/children",
+    "op": "replace"
+  },
+  {
+    "value": "^yellow;Banny",
+    "path": "/credits/children/4/children/3/title",
+    "op": "replace"
+  },
+  {
+    "value": "Specializations: Titan, Captain, Conquistador.",
+    "path": "/credits/children/4/children/3/children",
+    "op": "replace"
+  },
+  {
+    "value": "^magenta;RatElemental",
+    "path": "/credits/children/4/children/4/title",
+    "op": "replace"
+  },
+  {
+    "value": "Specializations: Sage.",
+    "path": "/credits/children/4/children/4/children",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Mohl",
+    "path": "/credits/children/4/children/5/title",
+    "op": "replace"
+  },
+  {
+    "value": "Weapons: Solstice (based off of MLGS), Samurai Heart.\nItems: Caltrops.",
+    "path": "/credits/children/4/children/5/children",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;JM401",
+    "path": "/credits/children/4/children/6/title",
+    "op": "replace"
+  },
+  {
+    "value": "Profession UI.",
+    "path": "/credits/children/4/children/6/children",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;SushiSquid",
+    "path": "/credits/children/4/children/7/title",
+    "op": "replace"
+  },
+  {
+    "value": "Techs: Tank Sphere",
+    "path": "/credits/children/4/children/7/children",
+    "op": "replace"
+  }
+]
+]
